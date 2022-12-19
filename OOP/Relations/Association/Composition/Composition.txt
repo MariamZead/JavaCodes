@@ -1,0 +1,2 @@
+Part-Of relationship
+Strong relation ( can't exist without the other class )
