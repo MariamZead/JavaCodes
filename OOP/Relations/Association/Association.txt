@@ -1,0 +1,2 @@
+Has-A relationship
+Linker ( connect 2 separate classes )
