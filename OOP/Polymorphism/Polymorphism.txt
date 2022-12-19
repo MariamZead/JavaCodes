@@ -1,0 +1,6 @@
+Polymorphism = Many forms
+Overloading : Early-Binding / Compile-time / Static
+Overriding : Late-Binding / Run-time / Dynamic
+   - Is-A relationship
+   - have same signature as the SuperClass
+   - atatic methods can't be overridden
