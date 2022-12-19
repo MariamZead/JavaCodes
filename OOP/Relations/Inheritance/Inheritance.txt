@@ -1,0 +1,16 @@
+Is-A relationship
+contains SuperClass and SubClass
+SuperClass: Holds the common data
+SubClass : Holds the additional data / it (extends) SuperClass
+Constructor : compile automatically SuperClass constructor before SubClass constructor in SubClass
+This Keyword
+   - this. : to access the instance in its class
+   - this() : to overload constructor in the same class
+Super keyword 
+   - super. : to call attributes and methods of the SuberCLass in the SubClass
+   - super() : to inherit SuperClass constructor inside SubClass
+   
+UpCasting : 
+   - Parent p = new Child();
+   - will see Super and Sub constructor
+   - can access all the methods and variables of the parent class and the common methods only in the SubClass.
