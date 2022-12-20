@@ -1,0 +1,20 @@
+	Abstract class : 
+	    - Must be declared with an abstract keyword
+      - Cannot be instantiated (cannot create object directly by using new keyword) "AbstractClass c1 = new ConcreteClass();"
+      - Can be used as datatype
+      - Once there is Abstract class, you have to inherit it from Concrete class (to provide implementations to all the abstract methods in it.)
+      - Can have abstract method and non-abstract methods
+      - Can have its own constructor and static and final methods
+      - There is no abstract variable only classes and methods 
+      - Private , final , Static methods , Constructor cannot have Abstract keyword 
+      
+	Abstract Methods :       
+  	    - Defines without implementations (cannot have body) 
+        - The implementations happens in ConcreteClass
+        - Can't be static
+      
+	Concrete class :
+    	    -  Must be declared with an extends keyword (inheritance) 
+          -  Can be instantiated (create object directly) by using new keyword
+          - Implements all the abstract methods of abstract class (overridden)
+          - Can be declared as final
