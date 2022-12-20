@@ -1,0 +1,8 @@
+Interface :
+    - Declared with interface
+    - Is 100% abstract class (only have abstract methods)
+    - Is-A relationship
+    - Inherited with implements
+    - Don't have Constructor
+    - Have abstract attributes and methods only
+    - Cannot be instantiated (cannot create object directly by using new keyword) "Interface c1 = new ConcreteClass();"
