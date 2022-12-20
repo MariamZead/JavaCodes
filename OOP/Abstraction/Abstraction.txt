@@ -1,0 +1,9 @@
+Process of hiding the implementation details from the user, only the functionality will be provided to the user. 
+In other words, the user will have the information on what the object does instead of how it does it.
+
+NOTES : 
+   - class can ectends only 1 class
+   - class can implements many interfaces
+   - class can't extends interfaces
+   - interface can extends interface (can't extends class)
+   - abstract class can extends class 
