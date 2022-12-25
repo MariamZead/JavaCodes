@@ -1,0 +1,8 @@
+Set : 
+  - Unorderd (Not indexed)
+  - Dynamic 
+  - No duplicates
+  1) HashSet : doesn't maintain any kind of order of its elements
+  2) TreeSet : sorts the elements in ascending order
+  3) LinkedHashSet : maintains the insertions order (sequence in which they have been added)
+  
