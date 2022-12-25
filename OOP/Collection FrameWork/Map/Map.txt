@@ -1,0 +1,5 @@
+Map: 
+  - unorderd (indexed by key)
+  - Dynamic size
+  - Key-Value Pairs  (item)
+  
