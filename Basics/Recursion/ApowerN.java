@@ -17,5 +17,6 @@ public class Recursion {
 power(4,3)
 3*power(3,3)
 3*(3*power(2,3))
+3*(3*(3*power(1,3)))
 3*(3*(3*3))
 */
