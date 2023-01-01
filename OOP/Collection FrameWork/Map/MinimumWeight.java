@@ -13,7 +13,7 @@ public class MinimumWeight {
     }
     public static void minimumWeight(HashMap <String,Double> list){
         double minimumWeight = list.get("Mai");
-        String str = list.toString();
+        String str = "";
         for (String name : list.keySet()){
             if (list.get(name) < minimumWeight){
                 minimumWeight = list.get(name);
